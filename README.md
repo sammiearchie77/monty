@@ -1,6 +1,6 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
-## Authors - [Samuel Arhibong](https://github.com/sammiearchie77) and [Sarah Gathoni](https://github.com/sarahGathoni)
+## Authors - [Samuel Archibong](https://github.com/sammiearchie77) and [Sarah Gathoni](https://github.com/sarahGathoni)
 
 ## The Monty language
 
