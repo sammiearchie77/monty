@@ -70,15 +70,14 @@ void _mul(stack_t **doubly, unsigned int cline)
 }
 
 /**
- * _mod - computes the rest of the division of the second element
- * by the top element of the stack
- *
+ * _mod - computes the rest of the division of
+ * the second element by the top element of the stack
  * @doubly: head of the linked list
- * @cline: line number;
+ * @cline: line number
  * Return: no return
  */
 
-void _mod(stack_t **doubly, unsigned int clinne)
+void _mod(stack_t **doubly, unsigned int cline)
 {
 	int m = 0;
 	stack_t *aux = NULL;
@@ -108,7 +107,6 @@ void _mod(stack_t **doubly, unsigned int clinne)
 
 /**
  * _pchar - print the char value of the first element
- *
  * @doubly: head of the linked list
  * @cline: line number;
  * Return: no return
