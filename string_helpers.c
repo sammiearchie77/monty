@@ -42,7 +42,7 @@ char *get_tokens(char *line, unsigned int line_number)
 	char *holder = NULL;
 
 	token = strtok(line, delim);
-	if (token == NUll)
+	if (token == NULL)
 		return ('\0');
 	holder = strtok(NULL, delim);
 	if (holder != NULL)

@@ -21,7 +21,7 @@ void push_func(stack_t **stack, unsigned int line_number)
 
 	if (*stack == NULL)
 	{
-		new->next = NUll;
+		new->next = NULL;
 		*stack = new;
 		return;
 	}
